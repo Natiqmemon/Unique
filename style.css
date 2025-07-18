@@ -157,11 +157,7 @@ nav ul li {
     width: 100px;
     height: 100px;
     margin-top: -730px;
-<<<<<<< HEAD
     margin-left: 220px;
-=======
-    margin-left: 230px;
->>>>>>> fd977b6fb1301c4b9f864c624e76e6e9e6653f16
 }
 .img4 {
     width: 130px;
@@ -175,18 +171,8 @@ nav ul li {
 .Gaza{
     height: fit-content;
     text-align: center;
-<<<<<<< HEAD
     
 }
-=======
-}
-h1{
-    text-align: center;
-}
-
-
-/* Text overlay for medical image */
->>>>>>> fd977b6fb1301c4b9f864c624e76e6e9e6653f16
 .img-overlay-text {
     position: absolute;
     bottom: 12px;
@@ -197,11 +183,7 @@ h1{
     font-weight: bold;
     font-size: 1.3rem;
     text-shadow: 0 2px 8px rgba(0,0,0,0.6);
-<<<<<<< HEAD
     background: greenyellow;
-=======
-    background: green;
->>>>>>> fd977b6fb1301c4b9f864c624e76e6e9e6653f16
     padding: 6px 0;
     border-radius: 0 0 12px 12px;
     pointer-events: none;
@@ -216,18 +198,10 @@ h1{
     font-weight: bold;
     font-size: 1.3rem;
     text-shadow: 0 2px 8px rgba(0,0,0,0.6);
-<<<<<<< HEAD
     background: greenyellow;
     padding: 6px 0;
     border-radius: 0 0 12px 12px;
     pointer-events: none;
 }
-
 footer{text-align: center;}
-=======
-    background: green;
-    padding: 6px 0;
-    border-radius: 0 0 12px 12px;
-    pointer-events: none;
-}
->>>>>>> fd977b6fb1301c4b9f864c624e76e6e9e6653f16
+
